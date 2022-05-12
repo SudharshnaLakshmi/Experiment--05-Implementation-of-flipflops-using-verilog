@@ -1,0 +1,9 @@
+module ex05(S,R,Clk,Q,Qbar);
+input S,R,Clk;
+output Q,Qbar;
+wire X,Y;
+nand(X,S,Clk);
+nand(Y,R,Clk);
+nand(Q,X,Qbar);
+nand(Qbar,Y,Q);
+endmodule
