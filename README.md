@@ -183,7 +183,7 @@ endmodule
 
 ## OUTPUT
 
-### SR FLIPFLOP
+## SR FLIPFLOP
 
 ### RTL LOGIC FOR FLIPFLOPS 
 ![OUTPUT](./srimg.png)
@@ -191,7 +191,7 @@ endmodule
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 ![OUTPUT](./srt.png)
 
-### JK FLIPFLOP
+## JK FLIPFLOP
 
 ### RTL LOGIC FOR FLIPFLOPS 
 ![OUTPUT](./jkimg.png)
@@ -199,7 +199,7 @@ endmodule
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 ![OUTPUT](./jkt.png)
 
-### D(DELAY) FLIPFLOP
+## D(DELAY) FLIPFLOP
 
 ### RTL LOGIC FOR FLIPFLOPS 
 ![OUTPUT](dimg.png)
@@ -207,7 +207,7 @@ endmodule
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 ![OUTPUT](dt.png)
 
-### T(TOGGLE) FLIPFLOP
+## T(TOGGLE) FLIPFLOP
 
 ### RTL LOGIC FOR FLIPFLOPS 
 ![OUTPUT](./timg.png)
